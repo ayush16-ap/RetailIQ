@@ -41,6 +41,3 @@ SQL validation queries are included to check missing values, duplicate IDs, refe
 1. Review the SQL scripts in `sql/`.
 2. Explore the notebooks in `notebooks/`.
 3. Open `powerbi/RETAIL.pbix` in Power BI Desktop to explore the dashboards.
-
-## Disclaimer
-This project is intended for educational and portfolio purposes.
